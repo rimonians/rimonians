@@ -23,5 +23,5 @@ I'm Rimon Ahmed, a Full Stack Web Application Developer from <img src="assets/ba
 
 #### Github Stats
 
-![learnwithsumit's github stats](https://github-readme-stats.vercel.app/api?username=rimonians&count_private=true&theme=tokyonight&hide=contribs,prs)
+![rimonians's github stats](https://github-readme-stats.vercel.app/api?username=rimonians&count_private=true&theme=tokyonight&hide=contribs,prs)
 
